@@ -28,7 +28,7 @@ public interface SeckillDao {
 
     /**
      * 根据偏移量查询商品列表
-     * @param offet
+     * @param offets
      * @param limit
      * @return
      */
